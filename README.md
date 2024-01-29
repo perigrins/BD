@@ -1,5 +1,5 @@
 # planer update
-## planer(5) ma dodane wszystkie sensowne ograniczenia poza:
+## planer(6) ma dodane wszystkie sensowne ograniczenia poza:
           pracownik może być max w 3 zespołach jednocześnie (bo zespoły są usunięte, a z działami to nie ma sensu),
           sala może być jednocześnie zajęta przez 1 dział (bo tabela sale była usunięta i teraz ma tylko pojemność i nr),
           1 pracownik może być jednocześnie w 1 filii/dziale (bo to wynika z dodawania pracowników - 1 pracownik jest domyślnie przypisany do 1 filii/działu).
